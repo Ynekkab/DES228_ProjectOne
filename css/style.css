@@ -139,6 +139,10 @@ li {
     font-size: 2vw;
 }
 
+li img {
+    height: 15vw;
+}
+
 footer {
     margin-top: 15%;
     text-align: right;
