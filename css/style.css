@@ -85,9 +85,12 @@ h1 {
   font-weight: 400;
   font-style: normal;
   font-size: 4vw;
-  line-height: 0;
   text-align: center;
+  display: inline;
+}
 
+.profileContent h1 {
+    line-height: 0;
 }
 
 h2 {
